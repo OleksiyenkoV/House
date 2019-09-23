@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    text-align: left;
+}
+
+body {
+    background: #009688;
+}
+
+.container
+
+.house, .house2, .house3, .house4 {
+    background: red;
+    display: inline-block;
+    height: 210px;
+    margin-left: 170px;
+    margin-top: 205px;
+    position: relative;
+    width: 310px;
+}
+
+
+.roof {
+    border-bottom: 80px solid blue;
+    border-left: 155.90px solid transparent;
+    border-right: 155px solid transparent;
+    position: absolute;
+    top: -80px;
+}
+
+.door{
+    position: absolute;
+    display:inline-block; 
+    background: green;
+    left: 115px;
+    top: 90px;
+    height: 120px;
+    width: 70px;
+}
+
+.window{
+    position: absolute;
+    display:inline-block; 
+    background: #00f7eb;
+    left: 20px;
+    top: 70px;
+    height: 70px;
+    width: 70px;
+
+}
+
+.window2{
+    position: absolute;
+    display:inline-block; 
+    background: #00f7eb;
+    right: 20px;
+    top: 70px;
+    height: 70px;
+    width: 70px;
+
+}
+
