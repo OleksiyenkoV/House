@@ -12,11 +12,11 @@ body {
 .house, .house2, .house3, .house4 {
     background: red;
     display: inline-block;
-    height: 210px;
+    height: 410px;
     margin-left: 170px;
     margin-top: 205px;
     position: relative;
-    width: 310px;
+    width: 610px;
 }
 
 
@@ -59,4 +59,3 @@ body {
     width: 70px;
 
 }
-
